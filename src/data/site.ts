@@ -53,10 +53,12 @@ export const site = {
       { day: 'Thursday', opens: '09:00', closes: '20:00' },
       { day: 'Friday', opens: '09:00', closes: '16:00' },
     ],
+    // GBP — Google Business Profile (verified)
+    gbpUrl: 'https://share.google/uqFxAL4vtBaH3ATbg',
+    gbpMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Mikrostomart+Opole+Centralna+33a',
     // sameAs - linki które potwierdzają tożsamość kliniki (GBP, social, katalogi)
     sameAs: [
-      // 'https://g.page/...',  // TODO: dodać po verify GBP
-      // 'https://maps.app.goo.gl/...',  // TODO: dodać po verify GBP
+      'https://share.google/uqFxAL4vtBaH3ATbg',
       'https://www.znanylekarz.pl/placowki/gabinet-mikrostomart-2',
       'https://www.facebook.com/mikrostomart',
       'https://www.instagram.com/mikrostomart_opole/',

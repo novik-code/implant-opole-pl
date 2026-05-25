@@ -97,7 +97,7 @@ const dentistSchema = {
     latitude: site.clinic.geo.latitude,
     longitude: site.clinic.geo.longitude,
   },
-  hasMap: `https://www.google.com/maps/search/?api=1&query=${site.clinic.geo.latitude},${site.clinic.geo.longitude}`,
+  hasMap: site.clinic.gbpUrl,
   openingHoursSpecification: site.clinic.openingHours.map((h) => ({
     '@type': 'OpeningHoursSpecification',
     dayOfWeek: `https://schema.org/${h.day}`,

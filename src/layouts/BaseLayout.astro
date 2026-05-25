@@ -143,7 +143,8 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
               {site.clinic.address.postalCode} {site.clinic.address.city}<br />
               <a href={site.clinic.phoneHref}>{site.clinic.phone}</a><br />
               <a href={`mailto:${site.clinic.email}`}>{site.clinic.email}</a><br />
-              <a href={site.clinic.url} rel="noopener">mikrostomart.pl</a>
+              <a href={site.clinic.url} rel="noopener">mikrostomart.pl</a><br />
+              <a href={site.clinic.gbpUrl} rel="noopener" target="_blank">📍 Zobacz na Google Maps</a>
             </address>
             <p style="font-size: 0.875rem; margin-top: 0.5rem;">
               Pn-Cz 9:00-20:00, Pt 9:00-16:00<br />
