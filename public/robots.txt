@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://implant.opole.pl/sitemap-index.xml

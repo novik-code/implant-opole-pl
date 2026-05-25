@@ -1,0 +1,107 @@
+---
+import { site } from '../data/site';
+
+// Schema bazowe dla całej strony — Physician + WebSite + Dentist (klinika)
+// Marcin jako Physician (kanoniczny @id na nowosielski.pl/#person — wspólny dla wszystkich filarów)
+// Strona jako WebSite z autorem Marcin
+// Mikrostomart jako Dentist/LocalBusiness — miejsce gdzie Marcin przyjmuje
+
+const physicianSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Physician',
+  '@id': site.author.canonicalId,
+  name: site.author.name,
+  honorificPrefix: site.author.honorificPrefix,
+  honorificSuffix: site.author.honorificSuffix,
+  jobTitle: site.author.jobTitle,
+  url: site.author.canonicalUrl,
+  sameAs: [
+    site.author.canonicalUrl,
+    'https://endodoncjamikroskopowa.pl/o-autorze',
+    'https://www.mikrostomart.pl/zespol/marcin-nowosielski',
+    'https://www.youtube.com/c/DentistMarcIn',
+    'https://www.facebook.com/marcindentist',
+    'https://www.instagram.com/nowosielski_marcin/',
+    'https://czelej.com.pl/sklep/wlasny-gabinet-poradnik/',
+  ],
+  medicalSpecialty: 'https://schema.org/Dentistry',
+  knowsAbout: [
+    'Implantologia stomatologiczna',
+    'Implanty zębów',
+    'All-on-4',
+    'All-on-6',
+    'Sinus lift',
+    'Periimplantitis',
+    'Implanty natychmiastowe',
+    'Endodoncja mikroskopowa',
+    'Stomatologia estetyczna',
+    'Chirurgia stomatologiczna',
+  ],
+  knowsLanguage: ['pl', 'en', 'de'],
+  workLocation: {
+    '@type': 'Dentist',
+    '@id': 'https://mikrostomart.pl/#dentist',
+    name: site.clinic.name,
+    url: site.clinic.url,
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: site.clinic.address.street,
+      addressLocality: site.clinic.address.city,
+      postalCode: site.clinic.address.postalCode,
+      addressRegion: site.clinic.address.region,
+      addressCountry: site.clinic.address.country,
+    },
+  },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${site.url}/#website`,
+  url: site.url,
+  name: site.shortTitle,
+  description: site.description,
+  inLanguage: 'pl-PL',
+  about: {
+    '@type': 'MedicalSpecialty',
+    name: 'Implantologia stomatologiczna',
+  },
+  author: { '@id': site.author.canonicalId },
+  publisher: { '@id': site.author.canonicalId },
+};
+
+// Klinika Mikrostomart — Dentist/LocalBusiness z geo, dla lokalnego SEO
+const dentistSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Dentist',
+  '@id': 'https://mikrostomart.pl/#dentist',
+  name: site.clinic.name,
+  legalName: site.clinic.legalName,
+  url: site.clinic.url,
+  image: 'https://mikrostomart.pl/og-image.jpg',
+  priceRange: 'PLN PLN PLN',
+  medicalSpecialty: 'https://schema.org/Dentistry',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: site.clinic.address.street,
+    addressLocality: site.clinic.address.city,
+    postalCode: site.clinic.address.postalCode,
+    addressRegion: site.clinic.address.region,
+    addressCountry: site.clinic.address.country,
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: site.clinic.geo.latitude,
+    longitude: site.clinic.geo.longitude,
+  },
+  areaServed: [
+    { '@type': 'City', name: 'Opole' },
+    { '@type': 'AdministrativeArea', name: 'województwo opolskie' },
+  ],
+  employee: { '@id': site.author.canonicalId },
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(physicianSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(dentistSchema)} />
