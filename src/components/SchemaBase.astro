@@ -71,6 +71,7 @@ const websiteSchema = {
 };
 
 // Klinika Mikrostomart — Dentist/LocalBusiness z geo, dla lokalnego SEO
+// Pełne dane: telefon, godziny, sameAs, hasMap — silne sygnały Local SEO
 const dentistSchema = {
   '@context': 'https://schema.org',
   '@type': 'Dentist',
@@ -79,7 +80,9 @@ const dentistSchema = {
   legalName: site.clinic.legalName,
   url: site.clinic.url,
   image: 'https://mikrostomart.pl/og-image.jpg',
-  priceRange: 'PLN PLN PLN',
+  priceRange: '$$$',
+  telephone: site.clinic.phone,
+  email: site.clinic.email,
   medicalSpecialty: 'https://schema.org/Dentistry',
   address: {
     '@type': 'PostalAddress',
@@ -94,11 +97,41 @@ const dentistSchema = {
     latitude: site.clinic.geo.latitude,
     longitude: site.clinic.geo.longitude,
   },
+  hasMap: `https://www.google.com/maps/search/?api=1&query=${site.clinic.geo.latitude},${site.clinic.geo.longitude}`,
+  openingHoursSpecification: site.clinic.openingHours.map((h) => ({
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: `https://schema.org/${h.day}`,
+    opens: h.opens,
+    closes: h.closes,
+  })),
   areaServed: [
     { '@type': 'City', name: 'Opole' },
     { '@type': 'AdministrativeArea', name: 'województwo opolskie' },
+    { '@type': 'City', name: 'Chmielowice' },
+    { '@type': 'City', name: 'Komprachcice' },
+    { '@type': 'City', name: 'Dobrzeń Wielki' },
+    { '@type': 'City', name: 'Tarnów Opolski' },
+    { '@type': 'City', name: 'Prószków' },
+    { '@type': 'City', name: 'Niemodlin' },
   ],
+  availableService: [
+    { '@type': 'MedicalProcedure', name: 'Implantacja zębów (Straumann, Nobel Biocare)' },
+    { '@type': 'MedicalProcedure', name: 'All-on-4 / All-on-6' },
+    { '@type': 'MedicalProcedure', name: 'Sinus lift' },
+    { '@type': 'MedicalProcedure', name: 'Augmentacja kości' },
+    { '@type': 'MedicalProcedure', name: 'Endodoncja mikroskopowa' },
+    { '@type': 'MedicalProcedure', name: 'Reendodoncja' },
+    { '@type': 'MedicalProcedure', name: 'Apicoektomia' },
+    { '@type': 'MedicalProcedure', name: 'Korony cyrkonowe' },
+    { '@type': 'MedicalProcedure', name: 'Licówki porcelanowe' },
+    { '@type': 'MedicalProcedure', name: 'Wybielanie zębów ZOOM' },
+    { '@type': 'MedicalProcedure', name: 'Chirurgia stomatologiczna' },
+    { '@type': 'MedicalProcedure', name: 'Sedacja stomatologiczna' },
+  ],
+  paymentAccepted: ['Cash', 'Credit Card', 'Debit Card', 'NFC Mobile Payment'],
+  currenciesAccepted: 'PLN',
   employee: { '@id': site.author.canonicalId },
+  sameAs: site.clinic.sameAs,
 };
 ---
 

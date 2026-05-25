@@ -23,6 +23,7 @@ export const site = {
     email: 'kontakt@nowosielski.pl',
   },
   // Klinika konwersji — wszystkie CTA prowadzą tutaj
+  // NAP musi być IDENTYCZNE we wszystkich miejscach online (Google penalizuje niespójności)
   clinic: {
     name: 'Mikrostomart',
     legalName: 'Mikrostomart — Klinika Stomatologii Premium',
@@ -30,6 +31,10 @@ export const site = {
     bookingUrl: 'https://mikrostomart.pl/rezerwacja',
     implantPageUrl: 'https://mikrostomart.pl/oferta/implanty',
     contactUrl: 'https://mikrostomart.pl/kontakt',
+    phone: '+48 570 270 470',
+    phoneAlt: '+48 570 810 800',
+    phoneHref: 'tel:+48570270470',
+    email: 'gabinet@mikrostomart.pl',
     address: {
       street: 'ul. Centralna 33a',
       city: 'Opole',
@@ -41,6 +46,21 @@ export const site = {
       latitude: 50.6751,
       longitude: 17.9213,
     },
+    openingHours: [
+      { day: 'Monday', opens: '09:00', closes: '20:00' },
+      { day: 'Tuesday', opens: '09:00', closes: '20:00' },
+      { day: 'Wednesday', opens: '09:00', closes: '20:00' },
+      { day: 'Thursday', opens: '09:00', closes: '20:00' },
+      { day: 'Friday', opens: '09:00', closes: '16:00' },
+    ],
+    // sameAs - linki które potwierdzają tożsamość kliniki (GBP, social, katalogi)
+    sameAs: [
+      // 'https://g.page/...',  // TODO: dodać po verify GBP
+      // 'https://maps.app.goo.gl/...',  // TODO: dodać po verify GBP
+      'https://www.znanylekarz.pl/placowki/gabinet-mikrostomart-2',
+      'https://www.facebook.com/mikrostomart',
+      'https://www.instagram.com/mikrostomart_opole/',
+    ],
   },
   // SEO — najważniejsze frazy lokalne
   keywords: [
