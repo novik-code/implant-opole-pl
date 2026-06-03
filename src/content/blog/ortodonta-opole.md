@@ -1,7 +1,7 @@
 ---
 title: 'Ortodonta Opole — aparat stały, Invisalign, dorosły / dziecko'
 description: 'Ortodonta Opole — pełen przewodnik 2026. Aparaty stałe (metalowy, ceramiczny, lingwalny), Invisalign, ortodoncja dorosłych i dzieci. Cennik 5-25 tys. PLN, czas leczenia.'
-pubDate: 2026-05-25
+pubDate: 2026-04-11
 category: stomatologia-ogolna
 tags: [ortodonta, opole, invisalign, aparat-staly, ortodoncja]
 draft: false

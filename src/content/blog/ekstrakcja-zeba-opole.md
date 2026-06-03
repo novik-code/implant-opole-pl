@@ -1,7 +1,7 @@
 ---
 title: 'Ekstrakcja zęba Opole — kiedy konieczna, jak wygląda, ile boli'
 description: 'Ekstrakcja zęba Opole — kiedy nieuniknione (pęknięcie korzenia, paradontoza zaawansowana, ósemka), procedura, cena 200-1500 PLN. Co po ekstrakcji: socket preservation, implant natychmiastowy.'
-pubDate: 2026-05-25
+pubDate: 2026-02-28
 category: stomatologia-ogolna
 tags: [ekstrakcja, opole, usuwanie-zeba, chirurgia]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Implant a palenie papierosów — czy palacze mogą mieć implant'
 description: 'Palenie a implanty zębów — palenie podwyższa ryzyko niepowodzenia 2-3×, periimplantitis 5-10×. Co robić jeśli palisz: cessation 6-8 tyg. przed, premium higiena, kontrole co 3 mies.'
-pubDate: 2026-05-25
+pubDate: 2026-03-12
 category: implantologia
 tags: [implanty, palenie, papierosy, czynnik-ryzyka, success-rate]
 draft: false

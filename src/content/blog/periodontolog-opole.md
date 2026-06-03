@@ -1,7 +1,7 @@
 ---
 title: 'Periodontolog Opole — leczenie paradontozy, recesji dziąseł'
 description: 'Periodontolog Opole — specjalista chorób przyzębia. Leczenie paradontozy, recesji dziąseł, chirurgia płatowa, regeneracja tkanek. Kiedy do periodontologa, jak wybrać.'
-pubDate: 2026-05-25
+pubDate: 2026-04-15
 category: stomatologia-ogolna
 tags: [periodontolog, opole, paradontoza, recesje, dziąsła]
 draft: false

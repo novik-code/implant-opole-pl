@@ -1,7 +1,7 @@
 ---
 title: 'Bruxism (zgrzytanie zębami) — szyna ochronna Opole'
 description: 'Bruxism (zgrzytanie zębami) — niszczy zęby, korony, implanty. Szyna ochronna (NTI, Michigan) cena 800-2500 PLN. Botox mięśni żwacza opcjonalnie. Diagnoza, leczenie, profilaktyka.'
-pubDate: 2026-05-25
+pubDate: 2026-02-12
 category: stomatologia-ogolna
 tags: [bruxism, szyna-ochronna, opole, zgrzytanie, botox]
 draft: false

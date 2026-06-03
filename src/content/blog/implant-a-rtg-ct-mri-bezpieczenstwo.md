@@ -1,7 +1,7 @@
 ---
 title: 'Implant a RTG, CT, MRI — czy badania są bezpieczne?'
 description: 'Implant zęba a badania obrazowe — RTG, tomografia komputerowa (CT), rezonans magnetyczny (MRI), USG. Czy bezpieczne, czy implant się przesunie, czy artefakty zniekształcają obraz.'
-pubDate: 2026-06-15
+pubDate: 2026-05-29
 category: po-zabiegu
 tags: [rtg, mri, ct, bezpieczenstwo, badania-obrazowe]
 draft: false

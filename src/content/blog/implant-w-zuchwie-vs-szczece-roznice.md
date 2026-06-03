@@ -1,7 +1,7 @@
 ---
 title: 'Implant w żuchwie vs szczęce — różnice, ryzyka, czas gojenia'
 description: 'Implant w żuchwie a w szczęce — różnice anatomiczne, ryzyka (nerw zębodołowy, zatoka), czas gojenia (3 vs 6 mies.), sukces. Co warto wiedzieć przed implantacją.'
-pubDate: 2026-06-15
+pubDate: 2026-05-31
 category: implantologia
 tags: [zuchwa, szczeka, anatomia, nerw, zatoka]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Implanty bez kości — co zrobić gdy „nie da się wszczepić"'
 description: 'Słyszałeś że „nie masz kości na implant"? W 90% przypadków da się odbudować kość augmentacją lub sinus lift. Alternatywy: implanty zygomatyczne, all-on-4 z pochylonymi implantami, kombinowane rozwiązania.'
-pubDate: 2026-05-25
+pubDate: 2026-03-24
 category: trudne-przypadki
 tags: [augmentacja, brak-kosci, implanty, opcje, alternatywy]
 draft: false

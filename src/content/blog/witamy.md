@@ -1,7 +1,7 @@
 ---
 title: 'Witaj na implant.opole.pl — przewodnik pacjenta o implantach i stomatologii premium'
 description: 'Wprowadzenie do serwisu implant.opole.pl — co znajdziesz, dla kogo jest ten przewodnik, kto jest autorem. Treści o implantologii i stomatologii premium w Opolu.'
-pubDate: 2026-05-25
+pubDate: 2026-05-17
 category: lokalne-opole
 tags: [implanty, opole, przewodnik, stomatologia-premium]
 draft: false

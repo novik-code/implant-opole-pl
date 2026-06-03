@@ -1,7 +1,7 @@
 ---
 title: 'Dentysta NFZ Opole vs prywatny — co refundowane, co nie'
 description: 'Dentysta NFZ Opole vs prywatny — pełen przewodnik 2026. Co refundowane (przegląd, plomby NFZ-owe, leczenie kanałowe siekaczy), co nie (implanty, mikroskop, ortodoncja). Strategia hybrydowa.'
-pubDate: 2026-05-25
+pubDate: 2026-02-20
 category: lokalne-opole
 tags: [nfz, opole, refundacja, prywatny, dentysta]
 draft: false

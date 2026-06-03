@@ -1,7 +1,7 @@
 ---
 title: 'Aparat ortodontyczny dla dorosłego Opole — czy warto po 30, 40, 50 r.ż.'
 description: 'Aparat ortodontyczny dla dorosłego Opole — Invisalign, aparat ceramiczny, lingwalny. Wiek nie jest barierą. Cena 8-25 tys. PLN, czas 12-30 mies., specyfika dla dorosłych.'
-pubDate: 2026-05-25
+pubDate: 2026-02-08
 category: stomatologia-ogolna
 tags: [ortodoncja, dorosly, opole, invisalign, aparat]
 draft: false

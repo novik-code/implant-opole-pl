@@ -1,7 +1,7 @@
 ---
 title: 'Gabinet stomatologiczny Opole centrum — premium vs przedmieścia'
 description: 'Gabinet stomatologiczny Opole centrum vs przedmieścia (Bierkowice, Półwieś, Zaodrze, Nowa Wieś Królewska). Plusy lokalizacji centralnej, ceny, dostępność, parking. Jak wybrać.'
-pubDate: 2026-05-25
+pubDate: 2026-03-04
 category: lokalne-opole
 tags: [gabinet-stomatologiczny, opole, centrum, lokalizacja]
 draft: false

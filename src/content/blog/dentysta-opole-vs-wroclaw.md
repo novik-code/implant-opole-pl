@@ -1,7 +1,7 @@
 ---
 title: 'Dentysta Opole vs Wrocław — gdzie warto leczyć implanty'
 description: 'Porównanie premium stomatologii w Opolu i Wrocławiu — różnice cenowe (10-20% na korzyść Opola), dostępność specjalistów, czas dojazdu, jakość. Dla kogo która opcja.'
-pubDate: 2026-05-25
+pubDate: 2026-02-22
 category: lokalne-opole
 tags: [opole, wroclaw, porownanie, lokalne, ceny]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Korona cyrkonowa Opole — cena, materiały, gabinet 2026'
 description: 'Korona cyrkonowa Opole 2026 — cena 2000-3500 PLN, trwałość 15-25+ lat, najlepsza estetyka i biokompatybilność. Porównanie z porcelaną na metalu, e.max, korona na implancie.'
-pubDate: 2026-05-25
+pubDate: 2026-03-30
 category: cena-i-koszt
 tags: [korona-cyrkonowa, opole, cena, protetyka, cyrkon]
 draft: false

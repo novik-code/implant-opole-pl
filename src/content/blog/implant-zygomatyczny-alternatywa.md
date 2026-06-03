@@ -1,7 +1,7 @@
 ---
 title: 'Implant zygomatyczny — alternatywa dla pacjentów bez kości szczęki'
 description: 'Implanty zygomatyczne (zygoma) — bardzo długie (40-55 mm) wszczepiane w kość jarzmową. Dla pacjentów z ekstremalnym zanikiem kości szczęki górnej. Cena 25-60 tys. PLN za łuk. Wykonują wyspecjalizowani chirurdzy.'
-pubDate: 2026-05-25
+pubDate: 2026-03-22
 category: trudne-przypadki
 tags: [implant-zygomatyczny, zygoma, opole, brak-kosci, all-on-4]
 draft: false

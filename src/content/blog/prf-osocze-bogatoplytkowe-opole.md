@@ -1,7 +1,7 @@
 ---
 title: 'PRF (osocze bogatopłytkowe) Opole — przyspieszone gojenie implantów'
 description: 'PRF (Platelet-Rich Fibrin) — osocze z własnej krwi pacjenta przyspieszające gojenie po implantach, ekstrakcjach, augmentacji. Cena 300-700 PLN, korzyści: szybsze gojenie, mniej bólu, mniej powikłań.'
-pubDate: 2026-05-25
+pubDate: 2026-04-23
 category: implantologia
 tags: [prf, osocze, gojenie, opole, implanty]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Wybielanie zębów Opole — ZOOM gabinet vs nakładkowe domowe'
 description: 'Wybielanie zębów Opole — ZOOM Philips (gabinet, 60 min), Beyond Polus, nakładkowe domowe Opalescence. Cennik 800-2500 PLN, czas trwania, bezpieczeństwo, przeciwwskazania.'
-pubDate: 2026-05-25
+pubDate: 2026-05-21
 category: stomatologia-ogolna
 tags: [wybielanie, opole, zoom, opalescence, estetyka]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Bonding kompozytowy Opole — tańsza alternatywa licówek'
 description: 'Bonding kompozytowy Opole — premium kompozyt 3M/Tokuyama, korekta kształtu zęba w 1 wizycie, cena 400-1500 PLN za ząb. Vs licówka porcelanowa (droższa, trwalsza). Kiedy która opcja.'
-pubDate: 2026-05-25
+pubDate: 2026-02-10
 category: stomatologia-ogolna
 tags: [bonding, opole, kompozyt, estetyka, korekta]
 draft: false

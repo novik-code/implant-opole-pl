@@ -1,7 +1,7 @@
 ---
 title: 'Próchnica u dziecka — profilaktyka i leczenie Opole'
 description: 'Próchnica u dziecka Opole — profilaktyka (lakowanie bruzd, fluoryzacja, dieta), leczenie (plomby kompozytowe, korony stalowe Hall), pulpotomia. Wczesna wizyta (1 r.ż.) i kontrole co 6 mies.'
-pubDate: 2026-05-25
+pubDate: 2026-04-25
 category: stomatologia-ogolna
 tags: [prochnica, dziecko, opole, profilaktyka, lakowanie]
 draft: false

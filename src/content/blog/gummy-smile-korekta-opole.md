@@ -1,7 +1,7 @@
 ---
 title: 'Gummy smile — korekta laserowa Opole, gingiwektomia'
 description: 'Gummy smile — widoczne dziąsła podczas uśmiechu. Korekta laserowa Er:YAG (1 wizyta, bez krwawienia), gingiwektomia, botox mięśni żwacza. Cena 200-4000 PLN. Pełen przewodnik.'
-pubDate: 2026-05-25
+pubDate: 2026-03-06
 category: stomatologia-ogolna
 tags: [gummy-smile, laser, gingiwektomia, opole, estetyka]
 draty: false

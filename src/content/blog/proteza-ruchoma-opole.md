@@ -1,7 +1,7 @@
 ---
 title: 'Proteza ruchoma Opole — akrylowa, szkieletowa, elastyczna, ceny 2026'
 description: 'Proteza ruchoma Opole — akrylowa (800-2500 PLN), szkieletowa (2500-5500), elastyczna Acron (2000-4500). Pełny przewodnik typów, NFZ vs prywatna, pielęgnacja, trwałość.'
-pubDate: 2026-05-25
+pubDate: 2026-04-29
 category: cena-i-koszt
 tags: [proteza, opole, ruchoma, akrylowa, szkieletowa]
 draft: false

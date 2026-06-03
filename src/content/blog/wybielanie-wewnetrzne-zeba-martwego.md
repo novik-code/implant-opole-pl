@@ -1,7 +1,7 @@
 ---
 title: 'Wybielanie wewnętrzne zęba martwego — endo bleaching Opole'
 description: 'Wybielanie wewnętrzne zęba martwego (endo bleaching) — siekacz po endodoncji ciemnieje. Premium procedura z perboratem sodu lub peroksydem, cena 600-1200 PLN. Trwałość 5-10 lat.'
-pubDate: 2026-05-25
+pubDate: 2026-05-19
 category: stomatologia-ogolna
 tags: [wybielanie-wewnetrzne, endo-bleaching, opole, zab-martwy, estetyka]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Plomba kompozytowa Opole — cena, materiały, trwałość 2026'
 description: 'Plomba kompozytowa Opole — premium kompozyty (3M Filtek, Tokuyama Estelite), trwałość 8-15 lat, cena 250-900 PLN za powierzchnię. Vs amalgamat (przestarzały), vs inlay/onlay (premium).'
-pubDate: 2026-05-25
+pubDate: 2026-04-19
 category: stomatologia-ogolna
 tags: [plomba, kompozytowa, opole, leczenie-prochnicy, cena]
 draft: false

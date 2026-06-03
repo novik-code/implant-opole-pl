@@ -1,7 +1,7 @@
 ---
 title: 'Stomatolog estetyczny Opole — wybielanie, licówki, korekta uśmiechu'
 description: 'Stomatolog estetyczny Opole — pełen przewodnik 2026. Wybielanie ZOOM, licówki porcelanowe, bonding, digital smile design. Cennik, czego oczekiwać, jak wybrać specjalistę.'
-pubDate: 2026-05-25
+pubDate: 2026-05-09
 category: stomatologia-ogolna
 tags: [stomatolog-estetyczny, wybielanie, licowki, opole, dsd]
 draft: false

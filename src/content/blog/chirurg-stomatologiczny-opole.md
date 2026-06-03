@@ -1,7 +1,7 @@
 ---
 title: 'Chirurg stomatologiczny Opole — ósemki, torbiele, biopsje'
 description: 'Chirurg stomatologiczny Opole — specjalista zabiegów chirurgicznych. Ekstrakcje skomplikowane, ósemki zatrzymane, torbiele, biopsje śluzówki, apicoektomia. Cennik 500-3500 PLN.'
-pubDate: 2026-05-25
+pubDate: 2026-02-16
 category: stomatologia-ogolna
 tags: [chirurg-stomatologiczny, opole, osemki, torbiele, ekstrakcja]
 draft: false

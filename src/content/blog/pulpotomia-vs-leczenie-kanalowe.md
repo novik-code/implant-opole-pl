@@ -1,7 +1,7 @@
 ---
 title: 'Pulpotomia vs leczenie kanałowe — kiedy ratować część miazgi'
 description: 'Pulpotomia (zachowanie miazgi korzeniowej) vs pełne leczenie kanałowe — kiedy która opcja. Wskazania, MTA/Biodentine, success rate 80-90%, cena 600-1200 PLN. Premium alternative dla młodych zębów.'
-pubDate: 2026-05-25
+pubDate: 2026-05-01
 category: stomatologia-ogolna
 tags: [pulpotomia, leczenie-kanalowe, mta, biodentine, opole]
 draft: false

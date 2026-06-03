@@ -1,7 +1,7 @@
 ---
 title: 'Recesje dziąseł — leczenie Opole, przeszczepy tkanki łącznej'
 description: 'Recesje dziąseł — leczenie w Opolu. Przeszczep tkanki łącznej (CTG), technika tunelowa, Mucograft. Cena 1500-3800 PLN za ząb. Klasyfikacja Cairo, kiedy operować.'
-pubDate: 2026-05-25
+pubDate: 2026-05-03
 category: stomatologia-ogolna
 tags: [recesje, dziasla, opole, periodontologia, przeszczep]
 draft: false

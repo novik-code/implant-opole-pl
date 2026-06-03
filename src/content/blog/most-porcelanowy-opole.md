@@ -1,7 +1,7 @@
 ---
 title: 'Most porcelanowy Opole — kiedy ma sens, ile kosztuje 2026'
 description: 'Most porcelanowy Opole — pełen przewodnik 2026. Cena 3500-12000 PLN, kiedy zamiast implantu, typy mostów (klasyczny, Maryland, na implantach). Procedura, trwałość 10-15 lat.'
-pubDate: 2026-05-25
+pubDate: 2026-04-07
 category: cena-i-koszt
 tags: [most, opole, protetyka, cena, porcelana]
 draft: false

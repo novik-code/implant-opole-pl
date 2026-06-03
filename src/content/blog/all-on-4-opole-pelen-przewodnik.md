@@ -1,7 +1,7 @@
 ---
 title: 'All-on-4 Opole — pełen przewodnik 2026, cena, etapy, dla kogo'
 description: 'All-on-4 w Opolu — koncepcja 4 implantów na cały łuk z protezą-mostem. Cena 25-50 tys. PLN, obciążenie natychmiastowe, bez sinus lift. Wskazania, etapy, success rate, porównanie z all-on-6.'
-pubDate: 2026-05-25
+pubDate: 2026-02-06
 category: implantologia
 tags: [all-on-4, opole, bezzebie, implanty-stale, Nobel-Biocare]
 draft: false

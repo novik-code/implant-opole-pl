@@ -1,7 +1,7 @@
 ---
 title: 'Implant zęba a sport — kiedy wrócić do aktywności fizycznej'
 description: 'Implant zęba a sport — kiedy wrócić do biegania, siłowni, sportów kontaktowych po wszczepieniu implantu. Bezpieczne harmonogramy, ryzyka, sport vs gojenie kości.'
-pubDate: 2026-06-01
+pubDate: 2026-05-27
 category: po-zabiegu
 tags: [sport, aktywnosc, gojenie, silownia, kontaktowe]
 draft: false

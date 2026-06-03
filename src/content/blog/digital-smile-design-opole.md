@@ -1,7 +1,7 @@
 ---
 title: 'Digital Smile Design (DSD) Opole — cyfrowe planowanie uśmiechu'
 description: 'Digital Smile Design (DSD) Opole — cyfrowe planowanie uśmiechu z fotografią twarzy. Mock-up przed nieodwracalnymi zabiegami (licówki, korony). Cena 300-800 PLN. Standard premium estetyki 2026.'
-pubDate: 2026-05-25
+pubDate: 2026-02-24
 category: stomatologia-ogolna
 tags: [dsd, opole, estetyka, planowanie, mock-up]
 draft: false

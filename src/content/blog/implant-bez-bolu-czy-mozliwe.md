@@ -1,7 +1,7 @@
 ---
 title: 'Implant zęba bez bólu — czy to możliwe i co naprawdę boli'
 description: 'Implant zęba w premium gabinecie 2026: brak bólu w trakcie zabiegu (komputerowe znieczulenie The Wand), umiarkowany dyskomfort 2-4 dni po (ibuprofen). Co naprawdę boli, jak łagodzić.'
-pubDate: 2026-05-25
+pubDate: 2026-03-14
 category: po-zabiegu
 tags: [implanty, bol, znieczulenie, the-wand, sedacja]
 draft: false

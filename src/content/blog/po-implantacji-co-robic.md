@@ -1,7 +1,7 @@
 ---
 title: 'Po implantacji — co robić, czego unikać przez pierwsze tygodnie'
 description: 'Opieka po implantacji zęba — pierwsze 24h (lodowate okłady, brak palenia), pierwszy tydzień (miękka dieta, antybiotyk), pierwsze 3 miesiące (osteointegracja). Konkretne wskazówki.'
-pubDate: 2026-05-25
+pubDate: 2026-04-21
 category: po-zabiegu
 tags: [implanty, opieka-pozabiegowa, gojenie, instrukcja]
 draft: false
