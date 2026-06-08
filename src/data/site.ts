@@ -7,7 +7,7 @@ export const site = {
   shortTitle: 'Implanty Opole',
   description:
     'Implanty zębów w Opolu — przewodnik pacjenta. Wskazania, technika, cennik, all-on-4, sinus lift, periimplantitis. Treści przygotowuje lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog i stomatolog przyjmujący w klinice Mikrostomart Opole.',
-  ogImage: '/og-default.svg',
+  ogImage: '/og-default.png',
   locale: 'pl-PL',
   // Autor wszystkich treści — Marcin Nowosielski (kanoniczny ID na nowosielski.pl)
   // Ta sama tożsamość co FILAR 1 (nowosielski.pl) i FILAR 2 (endodoncjamikroskopowa.pl)
