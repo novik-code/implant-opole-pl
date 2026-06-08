@@ -1,7 +1,7 @@
 ---
 title: 'Implant czy most? Co wybrać przy braku jednego zęba (Opole)'
 description: 'Implant zęba vs most protetyczny przy pojedynczym braku — porównanie trwałości, ochrony sąsiednich zębów, kosztu i komfortu. Dlaczego implant zwykle wygrywa. Konsultacja w Opolu.'
-pubDate: 2026-06-06
+pubDate: 2026-05-29
 category: stomatologia-ogolna
 tags: [implant, most, porownanie, brak-zeba, protetyka]
 draft: false
@@ -58,6 +58,6 @@ Implant zwykle wygrywa, bo **nie niszczy zdrowych zębów i chroni kość** — 
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, chirurgia implantologiczna.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji lekarskiej. Wybór metody wymaga indywidualnej oceny i CBCT.

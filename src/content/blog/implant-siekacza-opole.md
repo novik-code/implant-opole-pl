@@ -1,7 +1,7 @@
 ---
 title: 'Implant siekacza Opole — implant zęba przedniego estetycznie'
 description: 'Implant siekacza górnego/dolnego w Opolu — wymagania estetyczne, biotyp dziąsła, korona cyrkonowa, czasem implant cyrkonowy. Cena 5500-9000 PLN z koroną. Czas leczenia 3-6 miesięcy.'
-pubDate: 2026-03-18
+pubDate: 2025-11-29
 category: implantologia
 tags: [implant-siekacza, opole, przedni, estetyka, implant]
 draft: false

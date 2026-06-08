@@ -1,7 +1,7 @@
 ---
 title: 'Higienistka stomatologiczna Opole — profesjonalna higienizacja'
 description: 'Higienistka stomatologiczna Opole — co robi, dlaczego warto co 6 mies., skaling + piaskowanie + fluoryzacja. Cennik 250-500 PLN. Dla kogo szczególnie ważna.'
-pubDate: 2026-03-08
+pubDate: 2025-11-03
 category: stomatologia-ogolna
 tags: [higienistka, opole, higienizacja, profilaktyka, skaling]
 draft: false

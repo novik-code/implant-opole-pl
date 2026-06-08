@@ -1,7 +1,7 @@
 ---
 title: 'Pierwsze 48 godzin i pierwsze miesiące po wszczepieniu implantu — pełny przewodnik'
 description: 'Co robić po wszczepieniu implantu: pierwsze 48 godzin (obrzęk, dieta, leki, czego unikać), gojenie i osteointegracja w kolejnych miesiącach, sygnały alarmowe. Praktyczny przewodnik pozabiegowy. Opole.'
-pubDate: 2026-06-08
+pubDate: 2026-06-07
 category: po-zabiegu
 tags: [po-zabiegu, gojenie, osteointegracja, dieta, zalecenia]
 draft: false
@@ -74,6 +74,6 @@ Pierwsze 48 godzin to **zimne okłady, leki, dieta miękka i święty spokój dl
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog (Straumann, Nobel Biocare).
 
 **Disclaimer:** Treści edukacyjne, nie zastępują indywidualnych zaleceń pozabiegowych lekarza.

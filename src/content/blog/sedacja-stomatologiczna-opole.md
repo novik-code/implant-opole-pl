@@ -1,7 +1,7 @@
 ---
 title: 'Sedacja stomatologiczna Opole — dla pacjentów z lękiem'
 description: 'Sedacja stomatologiczna Opole — wziewna (podtlenek azotu) i farmakologiczna (Midazolam IV). Dla pacjentów z lękiem przed dentystą, dzieci, długie zabiegi. Cennik 300-1500 PLN.'
-pubDate: 2026-05-05
+pubDate: 2026-03-12
 category: lokalne-opole
 tags: [sedacja, stomatofobia, opole, lek-przed-dentysta, dzieci]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Higiena wokół implantu — jak utrzymać go 25 lat'
 description: 'Jak dbać o implant zęba, by przetrwał dekady. Szczotka, irygator, nici, szczoteczki międzyzębowe wokół implantu. Periimplantitis — profilaktyka. Kontrole i higienizacja. Opole.'
-pubDate: 2026-06-03
+pubDate: 2026-05-19
 category: po-zabiegu
 tags: [higiena, implant, periimplantitis, profilaktyka, po-zabiegu]
 draft: false
@@ -117,6 +117,6 @@ Implant przetrwa 25+ lat, jeśli: **szczotkujesz 2× dziennie + czyścisz przest
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Konsultacja merytoryczna:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, chirurgia implantologiczna.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji lekarskiej.

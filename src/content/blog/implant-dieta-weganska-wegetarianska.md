@@ -1,7 +1,7 @@
 ---
 title: 'Implant a dieta wegańska/wegetariańska — czy ma znaczenie'
 description: 'Dieta wegańska i wegetariańska a implant zęba — czy zwiększa ryzyko niepowodzenia, jakie niedobory są groźne (B12, witamina D, żelazo, wapń), jak suplementować przed i po zabiegu.'
-pubDate: 2026-05-25
+pubDate: 2026-04-25
 category: po-zabiegu
 tags: [dieta, weganska, wegetarianska, witaminy, suplementacja]
 draft: false
@@ -143,6 +143,6 @@ Dieta wegańska/wegetariańska **nie wyklucza implantów**, ale wymaga **świado
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**O autorze:** lek. dent. Marcin Nowosielski (M.Sc. RWTH Aachen), implantolog. [Więcej o autorze →](/o-autorze)
 
 **Disclaimer:** Treści edukacyjne. Dietę i suplementację konsultuj z lekarzem lub dietetykiem.

@@ -1,7 +1,7 @@
 ---
 title: 'Endodonta Opole — leczenie kanałowe pod mikroskopem'
 description: 'Endodonta Opole — specjalista leczenia kanałowego pod mikroskopem operacyjnym. Kiedy trzeba endodonty zamiast ogólnego dentysty, jak wybrać, cennik 600-2500 PLN.'
-pubDate: 2026-03-02
+pubDate: 2025-10-24
 category: stomatologia-ogolna
 tags: [endodonta, opole, leczenie-kanalowe, mikroskop, specjalista]
 draft: false

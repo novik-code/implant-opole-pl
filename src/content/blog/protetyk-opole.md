@@ -1,7 +1,7 @@
 ---
 title: 'Protetyk Opole — korony, mosty, protezy, planowanie cyfrowe'
 description: 'Protetyk Opole — specjalista odbudowy zębów. Korony cyrkonowe, mosty, protezy szkieletowe i akrylowe, protetyka na implantach, planowanie cyfrowe CAD/CAM. Cennik 1500-50000 PLN.'
-pubDate: 2026-04-27
+pubDate: 2026-02-27
 category: stomatologia-ogolna
 tags: [protetyk, opole, korony, mosty, protezy]
 draft: false

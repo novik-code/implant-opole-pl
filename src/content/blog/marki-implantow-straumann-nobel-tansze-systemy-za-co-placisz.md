@@ -1,7 +1,7 @@
 ---
 title: 'Marki implantów — Straumann, Nobel i tańsze systemy: za co naprawdę płacisz'
 description: 'Czym różnią się marki implantów (Straumann, Nobel Biocare, systemy premium vs ekonomiczne), co wpływa na cenę i trwałość, dlaczego dostępność części po latach ma znaczenie. Przewodnik implantologa, Opole.'
-pubDate: 2026-06-07
+pubDate: 2026-06-02
 category: implantologia
 tags: [marki-implantow, straumann, nobel, jakosc, cena]
 draft: false
@@ -65,6 +65,6 @@ Za system premium płacisz głównie za **powierzchnię, precyzję, udowodnioną
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji lekarskiej.

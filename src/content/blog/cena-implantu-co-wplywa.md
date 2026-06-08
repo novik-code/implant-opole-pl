@@ -1,7 +1,7 @@
 ---
 title: 'Cena implantu — co konkretnie wpływa na koszt 1500-7500 PLN'
 description: 'Dlaczego implant kosztuje 1500-7500 PLN — pełen rozkład czynników. System (Straumann vs Osstem), korona (cyrkon vs metal), augmentacja, sprzęt gabinetu, region. Dlaczego najtańsze oferty są podejrzane.'
-pubDate: 2026-02-14
+pubDate: 2025-09-14
 category: cena-i-koszt
 tags: [implanty, cena, koszt, opole, czynniki]
 draft: false

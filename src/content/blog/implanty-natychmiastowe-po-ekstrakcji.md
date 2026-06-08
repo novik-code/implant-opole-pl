@@ -1,7 +1,7 @@
 ---
 title: 'Implant natychmiastowy po ekstrakcji — kiedy ma sens, kiedy nie'
 description: 'Implant natychmiastowy w jednej wizycie z ekstrakcją zęba — oszczędność czasu (3-4 miesiące krócej), lepsza estetyka dziąsła. Wskazania, ograniczenia, success rate, koszt 5500-8500 PLN.'
-pubDate: 2026-03-26
+pubDate: 2025-12-16
 category: implantologia
 tags: [implanty-natychmiastowe, ekstrakcja, implanty, opole]
 draft: false

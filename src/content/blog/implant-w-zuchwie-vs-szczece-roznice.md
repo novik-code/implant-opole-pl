@@ -1,7 +1,7 @@
 ---
 title: 'Implant w żuchwie vs szczęce — różnice, ryzyka, czas gojenia'
 description: 'Implant w żuchwie a w szczęce — różnice anatomiczne, ryzyka (nerw zębodołowy, zatoka), czas gojenia (3 vs 6 mies.), sukces. Co warto wiedzieć przed implantacją.'
-pubDate: 2026-05-31
+pubDate: 2026-05-04
 category: implantologia
 tags: [zuchwa, szczeka, anatomia, nerw, zatoka]
 draft: false
@@ -190,6 +190,6 @@ W zasadzie **takie same** ceny implantu i korony. Drobne różnice w augmentacji
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** [lek. dent. Marcin Nowosielski](/o-autorze), M.Sc. RWTH Aachen — implantolog (Straumann, Nobel Biocare) w Opolu.
 
 **Disclaimer:** Treści edukacyjne. Decyzja o ścieżce implantacji wymaga oceny CBCT i indywidualnego planu.

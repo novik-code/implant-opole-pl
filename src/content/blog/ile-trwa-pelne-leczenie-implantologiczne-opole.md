@@ -1,7 +1,7 @@
 ---
 title: 'Ile trwa pełne leczenie implantologiczne — realny harmonogram'
 description: 'Ile czeka się na implant zęba od konsultacji do gotowej korony — realny harmonogram krok po kroku. Implant natychmiastowy vs klasyczny, sinus lift, augmentacja. Czas leczenia w Opolu.'
-pubDate: 2026-06-03
+pubDate: 2026-05-12
 category: lokalne-opole
 tags: [czas-leczenia, harmonogram, implant, opole]
 draft: false
@@ -141,6 +141,6 @@ Realny czas pełnego leczenia implantologicznego to **3-4 miesiące** (prosty pr
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** [lek. dent. Marcin Nowosielski](/o-autorze), M.Sc. RWTH Aachen — lekarz zajmujący się implantologią w Opolu.
 
 **Disclaimer:** Treści edukacyjne. Harmonogram indywidualny zależy od sytuacji klinicznej (CBCT).

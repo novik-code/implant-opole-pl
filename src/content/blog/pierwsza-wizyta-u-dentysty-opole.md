@@ -1,7 +1,7 @@
 ---
 title: 'Pierwsza wizyta u dentysty Opole — co zabrać, czego się spodziewać'
 description: 'Pierwsza wizyta u dentysty Opole — co zabrać (dokumenty, leki, stare RTG), czego się spodziewać (wywiad, przegląd, plan), ile trwa, ile kosztuje. Pełna lista checklist dla pacjenta.'
-pubDate: 2026-04-17
+pubDate: 2026-02-03
 category: lokalne-opole
 tags: [pierwsza-wizyta, opole, dentysta, checklist, pacjent]
 draft: false

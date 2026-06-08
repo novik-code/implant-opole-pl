@@ -1,7 +1,7 @@
 ---
 title: 'Invisalign Opole — przezroczyste nakładki ortodontyczne, cena, proces'
 description: 'Invisalign Opole — niewidoczne nakładki ortodontyczne dla dorosłych i dzieci. ClinCheck cyfrowy plan, cena 8-25 tys. PLN, czas leczenia 6-24 mies. Vs aparat stały, Invisalign Lite vs Full.'
-pubDate: 2026-03-28
+pubDate: 2025-12-21
 category: stomatologia-ogolna
 tags: [invisalign, ortodoncja, opole, aligners, nakladki]
 draft: false

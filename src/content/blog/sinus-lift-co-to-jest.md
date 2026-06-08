@@ -1,7 +1,7 @@
 ---
 title: 'Sinus lift — co to jest, kiedy potrzebny, ile kosztuje w Opolu'
 description: 'Sinus lift (podniesienie dna zatoki szczękowej) — kiedy potrzebny przed implantem w górnym tylnym zębie. Dwa warianty (zamknięty / otwarty), powikłania, cena 1500-5000 PLN, czas gojenia 4-6 mies.'
-pubDate: 2026-05-07
+pubDate: 2026-03-16
 category: implantologia
 tags: [sinus-lift, augmentacja-kosci, zatoka-szczekowa, implanty]
 draft: false

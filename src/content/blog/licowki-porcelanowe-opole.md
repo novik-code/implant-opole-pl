@@ -1,7 +1,7 @@
 ---
 title: 'Licówki porcelanowe Opole — czy warto, cena 1800-3500 PLN za ząb'
 description: 'Licówki porcelanowe Opole — pełen przewodnik 2026. Cena 1800-3500 PLN za ząb, pakiet 6 licówek 10-20 tys. Procedura, trwałość 15-25 lat, kiedy lepiej kompozytowe.'
-pubDate: 2026-04-05
+pubDate: 2026-01-08
 category: cena-i-koszt
 tags: [licowki, opole, estetyka, cena, smile-design]
 draft: false

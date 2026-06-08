@@ -1,7 +1,7 @@
 ---
 title: 'Najlepszy dentysta w Opolu — ranking i kryteria oceny 2026'
 description: 'Najlepszy dentysta w Opolu — jak rozpoznać. 7 obiektywnych kryteriów (kwalifikacje, sprzęt, materiały, transparentność), 10 pytań do gabinetu, czerwone flagi. Ranking vs marketing.'
-pubDate: 2026-04-09
+pubDate: 2026-01-16
 category: lokalne-opole
 tags: [dentysta-opole, ranking, najlepszy, kryteria, opole]
 draft: false

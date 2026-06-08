@@ -1,7 +1,7 @@
 ---
 title: 'Zapalenie dziąseł vs paradontoza — różnice, leczenie, progresja'
 description: 'Zapalenie dziąseł (gingivitis) — odwracalne, łatwe leczenie. Paradontoza (periodontitis) — utrata kości, postępujące, możliwa utrata zębów. Jak rozróżnić, kiedy do periodontologa.'
-pubDate: 2026-05-23
+pubDate: 2026-04-18
 category: stomatologia-ogolna
 tags: [zapalenie-dziasel, paradontoza, gingivitis, opole, profilaktyka]
 draft: false

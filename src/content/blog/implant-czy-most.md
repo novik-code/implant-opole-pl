@@ -1,7 +1,7 @@
 ---
 title: 'Implant czy most — co wybrać przy braku jednego zęba'
 description: 'Implant czy most porcelanowy przy braku jednego zęba? Porównanie inwazyjności (szlifowanie sąsiednich zębów), trwałości (20+ lat vs 10-15), kosztu (4500-7500 vs 4500-6500 PLN). Pełny przewodnik decyzyjny.'
-pubDate: 2026-03-16
+pubDate: 2025-11-22
 category: implantologia
 tags: [implanty, most, alternatywy, porownanie, decyzja]
 draft: false

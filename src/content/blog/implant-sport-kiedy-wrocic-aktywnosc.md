@@ -1,7 +1,7 @@
 ---
 title: 'Implant zęba a sport — kiedy wrócić do aktywności fizycznej'
 description: 'Implant zęba a sport — kiedy wrócić do biegania, siłowni, sportów kontaktowych po wszczepieniu implantu. Bezpieczne harmonogramy, ryzyka, sport vs gojenie kości.'
-pubDate: 2026-05-27
+pubDate: 2026-04-27
 category: po-zabiegu
 tags: [sport, aktywnosc, gojenie, silownia, kontaktowe]
 draft: false
@@ -140,6 +140,6 @@ Pierwsze **2 tygodnie** to spokojne tempo, **4 tygodnie** do większości aktywn
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**O autorze:** lek. dent. Marcin Nowosielski (M.Sc. RWTH Aachen), implantolog, chirurgia implantologiczna. [Więcej o autorze →](/o-autorze)
 
 **Disclaimer:** Treści edukacyjne. Harmonogram powrotu do sportu indywidualnie konsultuj z dentystą prowadzącym.

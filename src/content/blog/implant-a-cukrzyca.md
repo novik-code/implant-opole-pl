@@ -1,7 +1,7 @@
 ---
 title: 'Implant a cukrzyca — czy diabetycy mogą mieć implanty zębów'
 description: 'Cukrzyca a implanty — kontrolowana HbA1c<7% to niemal niepalący success rate. Niekontrolowana (HbA1c>8%) drastycznie obniża szanse. Premium protokół dla diabetyków, antybiotykoterapia, kontrole.'
-pubDate: 2026-03-10
+pubDate: 2025-11-05
 category: implantologia
 tags: [implanty, cukrzyca, czynnik-ryzyka, hba1c]
 draft: false

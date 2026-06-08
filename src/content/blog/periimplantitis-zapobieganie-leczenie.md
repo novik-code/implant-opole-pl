@@ -1,7 +1,7 @@
 ---
 title: 'Periimplantitis — zapobieganie i leczenie zapalenia wokół implantu'
 description: 'Periimplantitis to zapalenie tkanek wokół implantu — 10-20% pacjentów w 10-letnim horyzoncie. Objawy, diagnostyka, leczenie (mechanika + chemia + laser), profilaktyka. Co robić jeśli implant się rusza.'
-pubDate: 2026-04-13
+pubDate: 2026-01-26
 category: po-zabiegu
 tags: [periimplantitis, implanty, powiklania, higiena, laser]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: 'Tani dentysta Opole — dlaczego nie warto i jakie pułapki'
 description: 'Tani dentysta Opole — szukasz najtańszej oferty? Pokazuję 7 pułapek tanich gabinetów (gorsze materiały, brak sprzętu, krótsze gwarancje, ukryte koszty) i kiedy "tani" wychodzi 2x drożej.'
-pubDate: 2026-05-15
+pubDate: 2026-03-29
 category: cena-i-koszt
 tags: [tani-dentysta, opole, pulapki, koszt, jakosc]
 draft: false

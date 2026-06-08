@@ -1,7 +1,7 @@
 ---
 title: 'Korona po endodoncji — kiedy konieczna, ile kosztuje'
 description: 'Korona po leczeniu kanałowym — kiedy bezwzględnie konieczna (trzonowce, duża destrukcja), kiedy wystarczy plomba (siekacze małe ubytki). Wkład kompozytowy + korona cyrkonowa 2000-3500 PLN.'
-pubDate: 2026-04-01
+pubDate: 2025-12-27
 category: stomatologia-ogolna
 tags: [korona, endodoncja, leczenie-kanalowe, wkład, opole]
 draft: false

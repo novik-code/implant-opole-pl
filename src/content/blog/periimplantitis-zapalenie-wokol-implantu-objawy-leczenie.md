@@ -1,7 +1,7 @@
 ---
 title: 'Periimplantitis — zapalenie wokół implantu: objawy, leczenie, zapobieganie'
 description: 'Periimplantitis i mucositis — stan zapalny wokół implantu zęba. Objawy (krwawienie, zaczerwienienie, ubytek kości), przyczyny, leczenie i profilaktyka. Jak nie stracić implantu. Opole.'
-pubDate: 2026-06-05
+pubDate: 2026-05-24
 category: implantologia
 tags: [periimplantitis, mucositis, powiklania, implant, profilaktyka]
 draft: false
@@ -69,6 +69,6 @@ Periimplantitis to główny wróg trwałości implantu — ale rozwija się etap
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, chirurgia implantologiczna.
 
 **Disclaimer:** Treści edukacyjne, nie zastępują konsultacji lekarskiej.

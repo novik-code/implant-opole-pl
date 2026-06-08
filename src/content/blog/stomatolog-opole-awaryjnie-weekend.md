@@ -1,7 +1,7 @@
 ---
 title: 'Stomatolog Opole awaryjnie — weekend, noc, ostry ból zęba'
 description: 'Stomatolog Opole awaryjnie 24/7 — gdzie szukać pomocy w nocy, weekend, święta. Ostry ból zęba, ropień, uraz. Pierwsza pomoc do czasu wizyty, jak rozpoznać priorytety.'
-pubDate: 2026-05-11
+pubDate: 2026-03-22
 category: lokalne-opole
 tags: [stomatolog-awaryjnie, opole, dyzur, weekend, ostry-bol]
 draft: false

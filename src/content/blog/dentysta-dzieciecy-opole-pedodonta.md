@@ -1,7 +1,7 @@
 ---
 title: 'Dentysta dziecięcy Opole — pedodonta, pierwsza wizyta dziecka'
 description: 'Dentysta dziecięcy Opole — od kiedy zaprowadzić dziecko, jak wybrać pedodontę, sedacja, leczenie zachowawcze, profilaktyka. Pełen przewodnik dla rodziców z Opola.'
-pubDate: 2026-02-18
+pubDate: 2025-09-25
 category: stomatologia-ogolna
 tags: [pedodonta, dziecko, opole, dentysta-dzieciecy, profilaktyka]
 draft: false

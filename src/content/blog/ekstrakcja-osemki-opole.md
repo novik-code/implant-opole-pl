@@ -1,7 +1,7 @@
 ---
 title: 'Ekstrakcja ósemki Opole — wyrznięta, zatrzymana, 4 naraz'
 description: 'Ekstrakcja ósemki Opole — wyrznięte (500-1000 PLN) vs zatrzymane (800-1500 PLN). Sedacja, CBCT, 4 ósemki w jeden zabieg. Powikłania, opieka pozabiegowa.'
-pubDate: 2026-02-26
+pubDate: 2025-10-12
 category: stomatologia-ogolna
 tags: [osemki, ekstrakcja, opole, chirurgia, sedacja]
 draft: false

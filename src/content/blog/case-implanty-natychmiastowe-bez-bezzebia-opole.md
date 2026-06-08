@@ -1,7 +1,7 @@
 ---
 title: 'Implanty natychmiastowe bez okresu bezzębia — historia pacjenta z Opola'
 description: 'Realny przypadek z Opola — zapracowany pacjent, który potrzebował szybkiej i przewidywalnej odbudowy zębów bez etapu bezzębia. Implanty natychmiastowe, sinus lift, obciążenie natychmiastowe, cyrkon na implantach. Mikrostomart Opole.'
-pubDate: 2026-06-02
+pubDate: 2026-05-08
 category: trudne-przypadki
 tags: [case-report, implanty-natychmiastowe, bez-bezzebia, opole, cyrkon]
 heroImage: /metamorfoza-usmiechu-case.jpg
@@ -81,6 +81,6 @@ Pokazuje, że nowoczesna implantologia potrafi pogodzić rzeczy, które kiedyś 
 
 ---
 
-**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog, klinika [Mikrostomart](https://mikrostomart.pl) Opole.
+**Autor:** lek. dent. Marcin Nowosielski, M.Sc. RWTH Aachen — implantolog (Straumann, Nobel Biocare).
 
 **Disclaimer:** Opis przypadku ma charakter edukacyjny. Każdy przypadek wymaga indywidualnej oceny (CBCT) i planu. Efekty są indywidualne i zależą od sytuacji klinicznej.

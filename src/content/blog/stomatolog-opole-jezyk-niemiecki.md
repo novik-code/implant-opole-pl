@@ -1,7 +1,7 @@
 ---
 title: 'Stomatolog Opole język niemiecki — dla pacjentów z DACH'
 description: 'Stomatolog Opole z językiem niemieckim — dla pacjentów z Niemiec, Austrii, Szwajcarii. Premium standard 50-70% tańszy niż w DACH. Implantologia, endodoncja, protetyka.'
-pubDate: 2026-05-13
+pubDate: 2026-03-27
 category: lokalne-opole
 tags: [niemiecki, dach, stomatolog, opole, dental-tourism]
 draft: false

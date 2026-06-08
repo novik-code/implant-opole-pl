@@ -1,7 +1,7 @@
 ---
 title: 'Leczenie kanałowe czy implant — co wybrać przy „beznadziejnym" zębie'
 description: 'Dylemat: ratować ząb leczeniem kanałowym (endodoncja mikroskopowa) czy ekstrahować i wszczepić implant? Porównanie kosztów (4500-7500 vs 1200-2500 PLN), trwałości, czasu, sytuacji decyzyjnych.'
-pubDate: 2026-04-03
+pubDate: 2026-01-03
 category: implantologia
 tags: [endodoncja, implanty, decyzja, ratowanie-zeba, porownanie]
 draft: false

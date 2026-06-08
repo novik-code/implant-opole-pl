@@ -1,7 +1,7 @@
 ---
 title: 'Implant trzonowca Opole — implant tylnego zęba żującego'
 description: 'Implant trzonowca w Opolu — sinus lift często konieczny, mocna kość pod żucie. Cena 5500-9500 PLN (z sinus lift 7500-12500). Premium standardy: szerokie implanty, korona cyrkonowa monolityczna.'
-pubDate: 2026-03-20
+pubDate: 2025-12-06
 category: implantologia
 tags: [implant-trzonowca, opole, tylny, sinus-lift, zucie]
 draft: false
