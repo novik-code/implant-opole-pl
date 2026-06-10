@@ -1,13 +1,22 @@
 ---
-title: 'Wybielanie zębów Opole — ZOOM gabinet vs nakładkowe domowe'
-description: 'Wybielanie zębów Opole — ZOOM Philips (gabinet, 60 min), Beyond Polus, nakładkowe domowe Opalescence. Cennik 800-2500 PLN, czas trwania, bezpieczeństwo, przeciwwskazania.'
+title: 'Wybielanie a korony, licówki i implanty — co da się rozjaśnić'
+description: 'Wybielanie nie zmienia koloru koron, licówek ani prac na implantach. Jak zaplanować wybielanie PRZED protetyką i implantami w Opolu, by uzupełnienia pasowały, oraz wybielanie wewnętrzne zęba martwego.'
 pubDate: 2026-04-11
 category: stomatologia-ogolna
-tags: [wybielanie, opole, zoom, opalescence, estetyka]
+tags: [wybielanie, opole, korony, licowki, implanty]
 draft: false
 ---
 
-**Wybielanie zębów w Opolu** to jeden z najpopularniejszych zabiegów estetycznej stomatologii — szybki efekt, minimalna inwazyjność, znacząca poprawa estetyki uśmiechu. Pełen przewodnik typów wybielania, cenniku, bezpieczeństwa.
+Jeśli masz (lub planujesz) **korony, licówki albo prace na implantach**, wybielanie zębów wymaga innej kolejności i innych oczekiwań niż przy zębach własnych. Najczęstszy błąd pacjenta: wybielić zęby już **po** założeniu korony przedniej — wtedy korona zostaje ciemniejsza i przestaje pasować. Ten przewodnik tłumaczy, **co realnie da się rozjaśnić, czego nie, i jak ustawić kolejność leczenia** w Opolu.
+
+## Najważniejsze, jeśli masz lub planujesz uzupełnienia protetyczne
+
+- **Wybielanie nie działa na porcelanę, kompozyt ani akryl** — korony, licówki, mosty i korony na implantach **zachowują swój kolor**. Rozjaśniają się tylko zęby własne.
+- **Kolejność ma znaczenie:** najpierw wybielamy zęby własne, a **dopiero po ustabilizowaniu koloru** (ok. 2 tygodnie) dobieramy kolor nowych koron/licówek — tak, by całość pasowała.
+- **Ząb martwy po leczeniu kanałowym** ciemnieje „od środka" i nie reaguje na klasyczne wybielanie — potrzebuje **wybielania wewnętrznego** (opisane niżej) albo licówki/korony.
+- Planujesz **implant w odcinku przednim**? Ustal docelowy odcień zębów *przed* wykonaniem korony na implancie — kolor uzupełnienia jest „na stałe".
+
+Poniżej pełny przewodnik metod, cen i bezpieczeństwa — z myślą o pacjentach łączących wybielanie z protetyką i implantami.
 
 ## Jak działa wybielanie zębów
 

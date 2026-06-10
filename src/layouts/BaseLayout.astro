@@ -76,7 +76,7 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
           </span>
           <div>
             <strong>Implanty Opole</strong>
-            <span class="brand-sub">Przewodnik pacjenta · dr M. Nowosielski M.Sc.</span>
+            <span class="brand-sub">Przewodnik pacjenta · lek. dent. Marcin Nowosielski, M.Sc.</span>
           </div>
         </a>
         <nav aria-label="Główna nawigacja">
@@ -103,18 +103,34 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
 
     <footer class="site-footer">
       <div class="container">
+        <div class="footer-intro">
+          <h3>Implanty Opole</h3>
+          <p>
+            Niezależny przewodnik pacjenta o implantologii i stomatologii premium w Opolu.
+            Treści przygotowuje
+            <strong>{site.author.honorificPrefix} {site.author.name}, {site.author.honorificSuffix}</strong> —
+            M.Sc. RWTH Aachen, autor książki <em>„Własny gabinet"</em>. Konsultacje, leczenie
+            i drugą opinię prowadzi w klinice <a href={site.clinic.url} rel="noopener">Mikrostomart</a> w Opolu.
+          </p>
+        </div>
         <div class="footer-grid">
           <div>
-            <h3>Implanty Opole</h3>
-            <p>
-              Niezależny przewodnik pacjenta o implantologii i stomatologii premium w Opolu.
-              Treści przygotowuje
-              <strong>{site.author.honorificPrefix} {site.author.name}, {site.author.honorificSuffix}</strong> —
-              M.Sc. RWTH Aachen, autor książki <em>„Własny gabinet"</em>.
+            <h3>Klinika konsultacyjna</h3>
+            <address>
+              <strong>Mikrostomart</strong><br />
+              {site.clinic.address.street}<br />
+              {site.clinic.address.postalCode} {site.clinic.address.city}<br />
+              <a href={site.clinic.phoneHref}>{site.clinic.phone}</a><br />
+              <a href={`mailto:${site.clinic.email}`}>{site.clinic.email}</a><br />
+              <a href={site.clinic.url} rel="noopener">mikrostomart.pl</a><br />
+              <a href={site.clinic.gbpUrl} rel="noopener" target="_blank">📍 Zobacz na Google Maps</a>
+            </address>
+            <p style="font-size: 0.875rem; margin-top: 0.5rem;">
+              Pn-Cz 9:00-20:00, Pt 9:00-16:00<br />
+              Sb wybrane sloty
             </p>
             <p>
-              Konsultacje, leczenie i drugą opinię prowadzi w klinice
-              <a href={site.clinic.url} rel="noopener">Mikrostomart</a> w Opolu.
+              <a class="btn-outline" href={site.clinic.bookingUrl} rel="noopener">Rezerwacja wizyty</a>
             </p>
           </div>
           <div>
@@ -136,25 +152,6 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
               <li><a href="https://www.mikrostomart.pl/zespol/marcin-nowosielski" rel="noopener">Bio w klinice Mikrostomart</a></li>
               <li><a href="https://czelej.com.pl/sklep/wlasny-gabinet-poradnik/" rel="noopener">Książka „Własny gabinet"</a></li>
             </ul>
-          </div>
-          <div>
-            <h3>Klinika konsultacyjna</h3>
-            <address>
-              <strong>Mikrostomart</strong><br />
-              {site.clinic.address.street}<br />
-              {site.clinic.address.postalCode} {site.clinic.address.city}<br />
-              <a href={site.clinic.phoneHref}>{site.clinic.phone}</a><br />
-              <a href={`mailto:${site.clinic.email}`}>{site.clinic.email}</a><br />
-              <a href={site.clinic.url} rel="noopener">mikrostomart.pl</a><br />
-              <a href={site.clinic.gbpUrl} rel="noopener" target="_blank">📍 Zobacz na Google Maps</a>
-            </address>
-            <p style="font-size: 0.875rem; margin-top: 0.5rem;">
-              Pn-Cz 9:00-20:00, Pt 9:00-16:00<br />
-              Sb wybrane sloty
-            </p>
-            <p>
-              <a class="btn-outline" href={site.clinic.bookingUrl} rel="noopener">Rezerwacja wizyty</a>
-            </p>
           </div>
         </div>
 
@@ -348,6 +345,13 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, site.url).toString
       .site-footer a { color: #e8ede9; text-decoration: underline; text-underline-offset: 2px; }
       .site-footer a:hover { color: var(--color-accent); }
       .site-footer hr { border: none; border-top: 1px solid rgba(255,255,255,0.15); margin: 2rem 0 1.5rem; }
+      .footer-intro {
+        max-width: 44rem;
+        margin-bottom: 2.5rem;
+        padding-bottom: 2rem;
+        border-bottom: 1px solid rgba(255,255,255,0.12);
+      }
+      .footer-intro p { font-size: 0.9375rem; margin: 0; }
       .footer-grid {
         display: grid;
         gap: 2.5rem;
